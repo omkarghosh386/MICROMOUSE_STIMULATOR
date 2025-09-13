@@ -26,7 +26,7 @@ Designed with a **Tkinter-based GUI**, this tool allows users to create custom m
 ## 🚀 How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/omkarghosh386/Micromouse-Simulator.git
+   git clone https://github.com/omkarghosh386/MICROMOUSE_STIMULATOR.git
    cd Micromouse-Simulator
 2. Run the application:
 
